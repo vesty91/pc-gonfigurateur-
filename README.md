@@ -3,7 +3,7 @@
 
 ## Information sur le projet
 
-**URL** : [https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921f](https://stackblitz.com/edit/sb1-2krfdtww?file=index.html)
+**URL** : [https://stackblitz.com/edit/sb1-2krfdtww?file=index.html]
 
 ## Comment puis-je modifier ce code?
 
