@@ -1,71 +1,52 @@
 # pc-gonfigurateur-
-# Welcome to your Lovable project
+# Bienvenue à votre projet Lovable
 
-## Project info
+## Information sur le projet
 
-**URL**: https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921e
+**URL** : [https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921f](https://stackblitz.com/edit/sb1-2krfdtww?file=index.html)
 
-## How can I edit this code?
+## Comment puis-je modifier ce code?
 
-There are several ways of editing your application.
+Il existe plusieurs façons de modifier votre demande.
 
-**Use Lovable**
+**Utiliser Adorable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921e) and start prompting.
+Visitez simplement le [Lovable Project] ([https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921f](https://stackblitz.com/edit/sb1-2krfdtww?file=index.html) et commencez à faire des suggestions.
 
-Changes made via Lovable will be committed automatically to this repo.
+Les modifications apportées via Lovable seront automatiquement validées dans ce dépôt.
 
-**Use your preferred IDE**
+**Utilisez votre IDE préféré**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Si vous voulez travailler localement en utilisant votre propre IDE, vous pouvez cloner ce dépôt et pousser les changements. Les changements poussés seront également reflétés dans Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+La seule exigence est d’avoir installé Node.js et npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+Suivez les étapes suivantes :
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+`sh
+# Étape 1 : Clonez le dépôt en utilisant l’URL Git du projet.
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Étape 2 : Accédez au répertoire du projet.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Étape 3 : Installez les dépendances nécessaires.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Étape 4 : Démarrez le serveur de développement avec un rechargement automatique et un aperçu instantané.
 npm run dev
-```
+``
 
-**Edit a file directly in GitHub**
+**Modifier un fichier directement dans GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Accédez au ou aux fichiers souhaités.
+- Cliquez sur le bouton "Modifier" (icône en forme de crayon) en haut à droite de la vue du fichier.
+- Faites vos changements et validez les changements.
 
-**Use GitHub Codespaces**
+**Utiliser les codespaces GitHub**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921e) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/vesty91/pc-gonfigurateur-)
+- Accédez à la page principale de votre dépôt.
+- Cliquez sur le bouton "Code" (vert) en haut à droite.
+- Sélectionnez l’onglet "Codespaces".
+- Cliquez sur "Nouveau codespace" pour lancer un nouvel environnement Codespace.
+- Modifier les fichiers directement dans le Codespace et valider et pousser vos modifications une fois que vous avez terminé.
