@@ -9,12 +9,6 @@
 
 Il existe plusieurs façons de modifier votre demande.
 
-**Utiliser Adorable**
-
-Visitez simplement le [Lovable Project] ([https://lovable.dev/projects/ecd0c2f7-9a1a-42dd-a62a-3d9647bd921f](https://stackblitz.com/edit/sb1-2krfdtww?file=index.html) et commencez à faire des suggestions.
-
-Les modifications apportées via Lovable seront automatiquement validées dans ce dépôt.
-
 **Utilisez votre IDE préféré**
 
 Si vous voulez travailler localement en utilisant votre propre IDE, vous pouvez cloner ce dépôt et pousser les changements. Les changements poussés seront également reflétés dans Lovable.
